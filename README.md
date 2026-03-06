@@ -1,6 +1,6 @@
 # Store Sales SQL Analysis
 
-This project analyzes a small e-commerce dataset using SQL.
+SQL analytics project exploring revenue, customers and product performance in an e-commerce dataset.
 
 The goal of the project is to practice analytical SQL techniques such as joins, aggregations, window functions, and multi-step transformations.
 
